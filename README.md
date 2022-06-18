@@ -1,3 +1,3 @@
 # FizzBuzz
 
-I wrote the best FizzBuzz solution
+I wrote the FizzBuzz solution
