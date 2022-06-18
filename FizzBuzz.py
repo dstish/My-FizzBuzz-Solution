@@ -5,8 +5,8 @@ for i in range(1, 101):
         output += 'Fizz'
     if i % 5 == 0:
         output += 'Buzz'
-    else:
-        output = str(i)
+    if output == '':
+        output = i
 
     print(output)
 
