@@ -1,2 +1,3 @@
-# My-FizzBuzz-Solution
-FizzBuzz 🥸
+# FizzBuzz
+
+I wrote the best FizzBuzz solution
